@@ -58,7 +58,7 @@ Developing practical skills through **TryHackMe, Kali Linux, Python, cybersecuri
 Cybersecurity Student
 
 **🏛️ Harvard University — CS50's Cybersecurity**
-Cybersecurity fundamentals and practical security concepts
+fundamentals and practical security concepts
 
 ---
 
